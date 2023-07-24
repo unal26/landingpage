@@ -1,0 +1,12 @@
+body::before{
+    display: block;
+    content: '';
+    height: 70px;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+
+  }
+  
